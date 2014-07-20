@@ -9,5 +9,8 @@ To use this sample first create an account and get one Yaler domain, replace the
 
 **Screenshot**
 
+![enter image description here][3]
+
   [1]: https://www.yaler.net/
   [2]: http://reversehttp.net/reverse-http-spec.html
+  [3]: https://raw.githubusercontent.com/krvarma/Yaler_SparkCore/master/web.png
